@@ -5,7 +5,7 @@ export const blogData = [
         description: 'This is the toy that gives me a kiss and happens. I want to play in the garden. I never want to lose a smaller toy. I want to this is always with me never leave me alone.',
         date: 'Feb 27, 2022',
         image: '',
-        url: 'https://medium.com/@webdeveshverma/hello-reader-hope-you-are-keeping-safe-this-is-my-first-imagine-story-151333724c09'
+        url: 'hhttps://medium.com/@webdeveshverma/hello-reader-hope-you-are-keeping-safe-this-is-my-first-imagine-story-151333724c09'
     },
     {
         id: 2,

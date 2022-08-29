@@ -4,13 +4,13 @@ export const experienceData = [
         company: 'Maharaja School',
         jobtitle: 'English Teacher',
         startYear: '2014',
-        endYear: '2016'
+        endYear: '2015'
     },
     {
         id: 2,
         company: 'B.R. Khokhar School',
-        jobtitle: 'English Teacher',
-        startYear: '2016',
+        jobtitle: 'Spoken English',
+        startYear: '2015',
         endYear: '2019'
     },
     // {

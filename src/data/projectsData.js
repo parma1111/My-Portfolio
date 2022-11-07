@@ -33,12 +33,12 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'Spotify',
-        projectDesc: 'Spotify is a proprietary Swedish audio streaming and media services provider founded on 23 April 2006 by Daniel Ek and Martin Lorentzon.',
-        tags: ['JavaScript', 'HTML', 'CSS'],
-        code: 'https://github.com/parma1111/spotify-website-clone/tree/master',
-        demo: 'https://spotify-website-clone-nine.vercel.app/',
-        image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg55k_IVTfWIi3eWzLRstRGUGIiKUQ4JPvIAdcgcizycJDPEn0xJzRw3OSD3_xnDynVruELtm9TtWkWg9YbPLnrvEtXXi9vh2bW0ip0V1ZgUXzruQ03mFTCnOiPPkXbsIXJGJ0bm0iNaNaL19G1z4dwHo-KshQczQr7vP-7ygz4SZC_ZU1ExGaNaeWspg/s320/Screenshot%20(660).png'
+        projectName: 'Ideakart',
+        projectDesc: 'Ideakart is a site that gives u an idea about the book you want to buy. We offer a huge collection of books in diverse categories.',
+        tags: ['React', 'JavaScript', 'Redux', 'Chakra-ui', 'HTML', 'CSS'],
+        code: 'https://github.com/parma1111/Ideakart-website-clone',
+        demo: 'https://ideakart-b2la.vercel.app/home',
+        image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzd7gZtnuin0bCIpdqoqcfQblt_RQ-OEs5-ZIxf3KyCLd3MCV-jqbBu82Qj6OLWEk4mkvqeo9kqlyZG_bVKa02wTvWLbUCseI4Ul9QEs7I1haUIFRHVJb4Id6DhO6hYOZ9mbxoHEs_l0W89tuJYixvp_y9hcX4C5oq6crZQxB5XFYP0FWF6nR6AOpY8A/s320/Screenshot%20(727).png'
     },
    
 ]
